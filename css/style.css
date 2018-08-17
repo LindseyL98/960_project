@@ -1,22 +1,48 @@
-.top-bar ul li {
-
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: inline;
-    margin-right: 10px;
-
-}
 body {
-    background-color: white;
+    background-color: #f0f2f2;
+    font-family: 'Oswald', sans-serif;
+
 }
-.top-bar a {
-    color: yellow;
+
+.top_bar {
+    position: absolute;
+    width: 100%;
+    height: 12px;
+    color: #596470;
+    background-color: #121e29;
+    overflow: hidden;
+    display: block;
+    color: #677482;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
+    background-color: #111111;
 }
-.top-bar a {
-    background-color: #131d29;
+
+.top_bar a{
+    margin: top;
+    background-color: #333;
+    float: right;
+
 }
-.second-bar  ul li {
-    
+
+.top_bar ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    float: right;
+
 }
+
+.top_bar li {
+    display: inline;
+    margin-right: 5px;
+    padding: 0px;
+    float: right;
+
+}
+
+second_bar{
+
+}
+
