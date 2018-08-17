@@ -1,0 +1,22 @@
+.top-bar ul li {
+
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline;
+    margin-right: 10px;
+
+}
+body {
+    background-color: white;
+}
+.top-bar a {
+    color: yellow;
+    text-decoration: none;
+}
+.top-bar a {
+    background-color: #131d29;
+}
+.second-bar  ul li {
+    
+}
